@@ -1,4 +1,4 @@
-# CryptoMate
+# CryptoMate : https://react-cryptomate.netlify.app
 
 CryptoMate is a web application that provides real-time information and data about cryptocurrencies. It utilizes the Rapid Coin Ranking API to fetch and display cryptocurrency details, market statistics, and news articles. With CryptoMate, you can stay updated on the latest trends, track the performance of cryptocurrencies, and explore the crypto market.
 
